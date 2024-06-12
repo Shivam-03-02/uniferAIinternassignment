@@ -6,8 +6,9 @@ This project demonstrates a simple Node.js backend application with user registr
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/Shivam-03-02/uniferAIinternassignment.git
+   cd uniferAIinternassignment
+   
 2.Installing:
 
 (bash)
