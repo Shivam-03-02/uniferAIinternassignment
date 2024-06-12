@@ -20,6 +20,7 @@ example string "mongodb://localhost:27017/nodejs-auth-app"
 npm start
 
 3.Running the application
+
 API Endpoints
 Register: POST /register
 Login: POST /login
